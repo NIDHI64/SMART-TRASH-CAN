@@ -1,7 +1,7 @@
-#include <FirebaseESP8266.h>  //https://github.com/mobizt/Firebase-ESP8266
+#include <FirebaseESP8266.h>  
 #include <ESP8266WiFi.h>
 #include <SoftwareSerial.h>
-#include <TinyGPS++.h> //https://github.com/mikalhart/TinyGPSPlus
+#include <TinyGPS++.h> 
 
 //Install ArduinoJson Library
 //Note: The latest JSON library might not work with the code. 
